@@ -12,23 +12,18 @@ homework6-фамилия/
 │ ├── homework_2/
 │ │ └── ДЗ 2 Shift AQA - Тихонова.xlsx
 │ ├── homework_3/
+│ │ ├── ТЗ homework3
 │ │ └── uml.png
 │ ├── homework_4/
-│ │ ├── Снимок экрана 2025-10-12 в 13.30.50.png
-│ │ └── Postman Library API v2.postman_collection.json
+│ │ └── Снимок экрана 2025-10-12 в 13.30.50.png
+│ │   └──Json
+│ │    └── Postman Library API v2.postman_collection.json
 │ └── homework_5/
-│ └── ДЗ-5-Тихонова.jmx
+│  ├── ТЗ homework5
+│  └── ДЗ-5-Тихонова.jmx
 └── README.md
 ```
 
-## Ветки проекта
-- `main` - основная ветка
-- `homework_1` - ветка для домашней работы 1
-- `homework_2` - ветка для домашней работы 2
-- `homework_3` - ветка для домашней работы 3
-- `homework_4` - ветка для домашней работы 4
-- `homework_5` - ветка для домашней работы 5
-- `readme` - ветка с описанием проекта
 
 ---
 *Проект создан в рамках обучения*
